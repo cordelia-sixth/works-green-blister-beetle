@@ -1,6 +1,5 @@
 {
-  "name": "react-vite-template",
-  "homepage": "https://cordelia-sixth.github.io/works-green-blister-beetle/",
+  "name": "works-green-blister-beetle",
   "private": true,
   "version": "0.0.0",
   "type": "module",
