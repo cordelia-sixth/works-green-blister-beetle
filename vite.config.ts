@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "https://cordelia-sixth.github.io/works-green-blister-beetle/",
+  base: "/works-green-blister-beetle/",
   build: {
     outDir: "docs",
   },
